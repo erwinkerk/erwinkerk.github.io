@@ -17,7 +17,7 @@ Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit mo
 
 - [360 graden](/KinderdorpBennekom/)
 
-### Service Station Bloemheuvel 
+### Verzorgingsplaats Bloemheuvel 
 
 - [360 graden (hoog)](/Bloemheuvel/)
 - [360 graden (laag)](/BloemheuvelLow/)
