@@ -17,6 +17,10 @@ Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit mo
 
 - [360 graden](/KinderdorpBennekom/)
 
+### Fantasieland 2022 
+
+- [360 graden (opbouw)](/FantasielandOpbouw/)
+
 ### Verzorgingsplaats Bloemheuvel 
 
 - [360 graden (hoog)](/Bloemheuvel/)
