@@ -19,7 +19,9 @@ Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit mo
 
 ### Fantasieland 2022 
 
-- [360 graden (opbouw)](/FantasielandOpbouw/)
+- [360 graden (opbouw, woensdag)](/FantasielandOpbouwWoensdag/)
+- [360 graden (opbouw, vrijdag)](/FantasielandOpbouwVrijdag/)
+
 
 ### Verzorgingsplaats Bloemheuvel 
 
