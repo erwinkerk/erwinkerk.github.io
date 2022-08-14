@@ -13,6 +13,10 @@ Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit mo
 
 - [360 graden](/Binnenveld/)
 
+### Doesburg 
+
+- [360 graden](/Doesburg/)
+
 ### Kinderdorp Bennekom 
 
 - [360 graden](/KinderdorpBennekom/)
@@ -21,7 +25,8 @@ Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit mo
 
 - [360 graden (opbouw, woensdag)](/FantasielandOpbouwWoensdag/)
 - [360 graden (opbouw, vrijdag)](/FantasielandOpbouwVrijdag/)
-
+- [360 graden (opbouw, zondag)](/FantasielandOpbouwZondag/)
+- [Luchtfoto (opbouw, zondag)](/FantasielandOpbouwZondagLuchtfoto/luchtfoto.jpg)
 
 ### Verzorgingsplaats Bloemheuvel 
 
