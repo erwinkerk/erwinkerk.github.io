@@ -4,6 +4,10 @@ layout: default
 
 Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit moment hebben we de volgende panorama's:
 
+### Thorn 
+
+- [360 graden](/Thorn/)
+
 ### Ede Zuid 
 
 - [360 graden](/EdeZuid/)
