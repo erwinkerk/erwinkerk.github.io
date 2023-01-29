@@ -4,6 +4,10 @@ layout: default
 
 Welkom bij 360graden.net, de site waar je de wereld van boven bekijkt. Op dit moment hebben we de volgende panorama's:
 
+### Sint Walrick 
+
+- [360 graden](/SintWalrick/)
+
 ### Thorn 
 
 - [360 graden](/Thorn/)
